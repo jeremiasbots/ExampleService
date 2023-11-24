@@ -1,0 +1,6 @@
+Commands (create the backend and test the backend):
+bun create.ts > build.ts
+bun build.ts
+
+Other terminal:
+bun main.js

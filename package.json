@@ -1,0 +1,14 @@
+{
+  "name": "exampleservice",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@bunland/lauri": "github:Bunland/lauri"
+  }
+}
